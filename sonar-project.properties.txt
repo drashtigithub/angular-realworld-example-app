@@ -1,0 +1,4 @@
+sonar.projectkey=Frontend_project
+sonar.projectversion=1.0
+sonar.sources=angular-realworld-example-app/src/
+
